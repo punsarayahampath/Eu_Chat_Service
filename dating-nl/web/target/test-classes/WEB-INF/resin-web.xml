@@ -1,0 +1,13 @@
+<web-app id="dating-nl-web-1.0-SNAPSHOT">
+    <jsp fast-jstl="false"/>
+
+    <!--database>
+        <jndi-name>jdbc/appfuse</jndi-name>
+        <driver type="com.mysql.jdbc.Driver">
+            <url>jdbc:mysql://localhost/dating?createDatabaseIfNotExist=true&amp;useUnicode=true&amp;characterEncoding=utf-8&amp;autoReconnect=true</url>
+            <user>dba</user>
+            <password>sql</password>
+        </driver>
+    </database-->
+</web-app>
+

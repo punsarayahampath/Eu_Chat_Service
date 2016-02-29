@@ -1,0 +1,9 @@
+com/orbitor/daing/webapp/controller/UserFormControllerTest.class
+com/orbitor/daing/webapp/controller/SignupControllerTest.class
+com/orbitor/daing/webapp/controller/BaseControllerTestCase.class
+com/orbitor/daing/webapp/controller/UserControllerTest.class
+com/orbitor/daing/webapp/filter/LocaleFilterTest.class
+com/orbitor/daing/webapp/controller/UpdatePasswordControllerTest.class
+com/orbitor/daing/webapp/controller/PasswordHintControllerTest.class
+com/orbitor/daing/webapp/filter/MockFilterChain.class
+com/orbitor/daing/webapp/listener/StartupListenerTest.class
